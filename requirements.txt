@@ -2,7 +2,7 @@ astroid==2.2.5
 certifi==2019.3.9
 chardet==3.0.4
 colorama==0.4.1
-ecdsa==0.13.2
+ecdsa==0.13.3
 enum-compat==0.0.2
 future==0.17.1
 idna==2.8
